@@ -1,7 +1,7 @@
 ---
 name: Новая моделька
 about: Запрос на создание новой модельки
-title: [Модель] "{Название}"
+title: '[Модель] "{Название}"'
 labels: graphics
 assignees: JIJITANKO
 

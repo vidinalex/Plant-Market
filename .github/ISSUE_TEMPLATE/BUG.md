@@ -1,7 +1,7 @@
 ---
 name: Я нашёл багу
 about: Запрос на фикс бага
-title: [Bug] {Название}
+title: '[Bug] {Название}'
 labels: bug
 assignees:
 
